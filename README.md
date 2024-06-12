@@ -1,1 +1,1 @@
-# I am a devOps engineer that is passionate about automating the process and practices of software deplyment,and making live easier for everyone involved. I also love sharing what I know with others in simple and easy-to-understand articles.
+# I am a devOps engineer that is passionate about automating the process and practices of software deployment,and making live easier for everyone involved. I also love sharing what I know with others in simple and easy-to-understand articles.
